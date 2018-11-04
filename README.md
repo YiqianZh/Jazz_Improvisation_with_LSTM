@@ -1,3 +1,5 @@
+# NOTE: Implementation hidden due to Coursera Terms of Service.
+
 # Jazz Improvisation with LSTM
 
 Generating Jazz music with a [Long-Short-Term-Memory (LSTM)](https://en.wikipedia.org/wiki/Long_short-term_memory) using Keras.
